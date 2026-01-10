@@ -88,7 +88,7 @@ pip install pyyaml
 GitHub에서 `eprm_analyzer_v2.4.py` 파일을 다운로드하거나 클론하세요:
 
 ```bash
-git clone https://github.com/bghan2024/EPRM-Analyzer.git
+git clone https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer.git
 cd EPRM-Analyzer
 ```
 
@@ -302,13 +302,13 @@ EPRM_Results_20241201_143022/
 **Methods 섹션**:
 ```
 Protein recovery prediction was performed using EPRM Analyzer v2.4 
-(Han, 2024; https://github.com/bghan2024/EPRM-Analyzer).
+(Han, 2024; https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer).
 ```
 
 **참고문헌**:
 ```
 Han, B. (2024). EPRM Analyzer v2.4. GitHub repository. 
-https://github.com/bghan2024/EPRM-Analyzer
+https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer
 ```
 
 ### 출판 후 (Post-publication)
@@ -318,14 +318,14 @@ https://github.com/bghan2024/EPRM-Analyzer
 **Methods 섹션**:
 ```
 Protein recovery prediction was performed using EPRM Analyzer 
-(Han, 2024; https://github.com/bghan2024/EPRM-Analyzer).
+(Han, 2024; https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer).
 ```
 
 **참고문헌**:
 ```
 Han, B. (2024). EPRM Analyzer: A tool for predicting effective 
 protein recovery mass. [Journal Name], [Volume], [Pages]. 
-https://github.com/bghan2024/EPRM-Analyzer
+https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer
 ```
 
 ### BibTeX 형식
@@ -335,7 +335,7 @@ https://github.com/bghan2024/EPRM-Analyzer
   author = {Han, Byeong-gu},
   title = {EPRM Analyzer v2.4},
   year = {2024},
-  url = {https://github.com/bghan2024/EPRM-Analyzer},
+  url = {https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer},
   version = {2.4.0}
 }
 ```

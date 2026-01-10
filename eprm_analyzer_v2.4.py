@@ -13,16 +13,16 @@ Effective Protein Recovery Mass (EPRM) Analyzer v2.4
 
 1. 출판 전 (Pre-publication):
    - GitHub 저장소를 인용하세요:
-     "EPRM Analyzer was obtained from https://github.com/bghan2024/EPRM-Analyzer"
+     "EPRM Analyzer was obtained from https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer"
    - 또는 코드 내 주석을 인용:
      "Analysis was performed using EPRM Analyzer v2.4 
-      (https://github.com/bghan2024/EPRM-Analyzer)"
+      (https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer)"
 
 2. 출판 후 (Post-publication):
    - 논문이 출판되면 논문을 인용하세요 (논문 정보는 추후 업데이트 예정)
    - 선택적으로 GitHub 저장소도 함께 인용 가능:
      "Analysis was performed using EPRM Analyzer (Han, 2024; 
-      https://github.com/bghan2024/EPRM-Analyzer)"
+      https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer)"
 
 3. 실험 방법 섹션:
    - Methods 섹션에 다음을 포함하세요:
