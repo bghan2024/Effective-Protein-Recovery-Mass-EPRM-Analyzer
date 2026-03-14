@@ -465,7 +465,7 @@ result = analyzer.calculate_eprm(sequence, n_iterations=500)
 
 **Han Byeong-gu**
 - Email: hanbyeonggu@gmail.com
-- GitHub: [@bghan2026](https://github.com/bghan2026)
+- GitHub: [@bghan2024](https://github.com/bghan2024)
 
 ### 문의 사항
 
