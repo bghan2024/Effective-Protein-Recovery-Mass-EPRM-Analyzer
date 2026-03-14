@@ -88,7 +88,7 @@ pip install pyyaml
 GitHub에서 `eprm_analyzer_v2.4.py` 파일을 다운로드하거나 클론하세요:
 
 ```bash
-git clone https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer.git
+git clone https://github.com/bghan2026/Effective-Protein-Recovery-Mass-EPRM-Analyzer.git
 cd EPRM-Analyzer
 ```
 
@@ -246,7 +246,7 @@ analyzer = EPRMAnalyzer(config_file="config.json")
 다음 파일들이 저장됩니다:
 
 ```
-EPRM_Results_20241201_143022/
+EPRM_Results_20261201_143022/
 ├── results.json              # 모든 분석 결과 (JSON 형식)
 ├── eprm_analysis_detail.log  # 상세 로그
 └── config.json               # 사용된 설정 파라미터
@@ -302,13 +302,13 @@ EPRM_Results_20241201_143022/
 **Methods 섹션**:
 ```
 Protein recovery prediction was performed using EPRM Analyzer v2.4 
-(Han, 2024; https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer).
+(Han, 2026; https://github.com/bghan2026/Effective-Protein-Recovery-Mass-EPRM-Analyzer).
 ```
 
 **참고문헌**:
 ```
-Han, B. (2024). EPRM Analyzer v2.4. GitHub repository. 
-https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer
+Han, B. (2026). EPRM Analyzer v2.4. GitHub repository. 
+https://github.com/bghan2026/Effective-Protein-Recovery-Mass-EPRM-Analyzer
 ```
 
 ### 출판 후 (Post-publication)
@@ -318,24 +318,24 @@ https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer
 **Methods 섹션**:
 ```
 Protein recovery prediction was performed using EPRM Analyzer 
-(Han, 2024; https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer).
+(Han, 2026; https://github.com/bghan2026/Effective-Protein-Recovery-Mass-EPRM-Analyzer).
 ```
 
 **참고문헌**:
 ```
-Han, B. (2024). EPRM Analyzer: A tool for predicting effective 
+Han, B. (2026). EPRM Analyzer: A tool for predicting effective 
 protein recovery mass. [Journal Name], [Volume], [Pages]. 
-https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer
+https://github.com/bghan2026/Effective-Protein-Recovery-Mass-EPRM-Analyzer
 ```
 
 ### BibTeX 형식
 
 ```bibtex
-@software{eprm_analyzer_2024,
+@software{eprm_analyzer_2026,
   author = {Han, Byeong-gu},
   title = {EPRM Analyzer v2.4},
-  year = {2024},
-  url = {https://github.com/bghan2024/Effective-Protein-Recovery-Mass-EPRM-Analyzer},
+  year = {2026},
+  url = {https://github.com/bghan2026/Effective-Protein-Recovery-Mass-EPRM-Analyzer},
   version = {2.4.0}
 }
 ```
@@ -465,7 +465,7 @@ result = analyzer.calculate_eprm(sequence, n_iterations=500)
 
 **Han Byeong-gu**
 - Email: hanbyeonggu@gmail.com
-- GitHub: [@bghan2024](https://github.com/bghan2024)
+- GitHub: [@bghan2026](https://github.com/bghan2026)
 
 ### 문의 사항
 
@@ -478,7 +478,7 @@ result = analyzer.calculate_eprm(sequence, n_iterations=500)
 
 ## 📈 버전 히스토리
 
-### v2.4.0 (2024)
+### v2.4.0 (2026)
 - 초보자 친화적인 문서화
 - 상세한 인용 가이드라인
 - AGPL-3.0 라이선스 적용
@@ -504,6 +504,6 @@ result = analyzer.calculate_eprm(sequence, n_iterations=500)
 
 ---
 
-**마지막 업데이트**: 2024년  
+**마지막 업데이트**: 2026년  
 **버전**: 2.4.0  
 **라이선스**: GNU Affero General Public License v3.0
